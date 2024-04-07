@@ -121,8 +121,3 @@ def Think_Steps(condition_from_thinker,objective_from_thinker):
                                   temperature=0.7, 
                                   n=1)
     return steps
-
-
-if __name__ == "__main__":
-    condition_from_thinker = ""
-    Think_thoughts(condition_from_thinker)
