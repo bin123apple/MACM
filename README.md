@@ -23,11 +23,7 @@ conda create -n macm python=3.10.11
 pip install -r requirements.txt
 ```
 
-2. Enter your OpenAI Key and question
-
-Enter your OpenAi Key in the `MACM/utils/gpt_robots.py` line 3.
-
-Enter your question in the `MACM/main.py` line 158. If you don't enter your question, there will be a `Error processing file` error.
+2. Enter your OpenAi Key in the `MACM/utils/gpt_robots.py` line 3. Enter your question in the `MACM/main.py` line 158. If you don't enter your question, there will be a `Error processing file` error.
 
 3. Run 
 
