@@ -53,7 +53,7 @@ def generate_from_GPT(prompts, max_tokens, model="gpt-4-1106-preview", temperatu
     ]
     """
     import openai
-    openai.api_key = "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" # TODO
+    openai.api_key = "" # TODO
 
     try:
         result = completions_with_backoff(
