@@ -19,7 +19,7 @@ Compared to the old method of prompting. The advantages of MACM are as follows:
 
 ## Performance
 
-The experiments were mainly conducted on the MATH dataset, and due to financial constraints, we randomly selected 1/3 of the data in the MATH dataset for the experiments
+The experiments were mainly conducted on the MATH dataset, and due to financial constraints, we randomly selected 1/3 of the data in the MATH dataset for the experiments.
 
 
 | Method | Algebra | Counting and Probability | Geometry | Intermediate Algebra | Number Theory | Prealgebra | Precalculus | Overall |
@@ -29,7 +29,16 @@ The experiments were mainly conducted on the MATH dataset, and due to financial 
 | SC-CoT | 94.96 | 87.17               | 50.14    | 71.99                | 89.91         | 86.75      | 79.67       | 80.12   |
 | MACM   | 96.07   | 97.95                   | 62.74    | 78.43                | 98.04         | 94.11      | 88.46       | 87.92   |
 
-  *Accuracy(%) comparison of GPT-4 Turbo on MATH dataset with different prompting Methods. \*Due to financial constraints, we randomly selected 1/3 of the data in the MATH dataset*
+  *Accuracy(%) comparison of GPT-4 Turbo on MATH dataset with different prompting Methods. \*Due to financial constraints, we randomly selected 1/3 of the data in the MATH dataset.*
+
+
+
+<div align="center">
+  <img src="Figures/Lv5.png" width="500" >
+  <br> <!-- Optional line break to add some space between the image and the text -->
+  <p> <i>The performance comparison of GPT-Turbo with and
+without MACM on Level 5 problems of the MATH dataset.  *Due to financial constraints, we randomly selected 1/3 of the data in the MATH dataset.</i> </p>
+</div>
 
 ## Quick Start
 
