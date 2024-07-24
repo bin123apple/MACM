@@ -66,7 +66,8 @@ If you have any inquiries, please feel free to raise an issue or reach out to le
 ```
 @misc{lei2024macm,
       title={MACM: Utilizing a Multi-Agent System for Condition Mining in Solving Complex Mathematical Problems}, 
-      author={Bin Lei},
+      author={Bin Lei, Yi Zhang, Shan Zuo, Ali Payani, Caiwen Ding},
+      affiliated institution={University of Connecticut & Cisco}
       year={2024},
       eprint={2404.04735},
       archivePrefix={arXiv},
